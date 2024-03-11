@@ -1,0 +1,16 @@
+{
+  "name": "fintary-part1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lucaslk10/fintary-part1.git",
+  "author": "Lucas Santana <lucas2.4@live.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "ts-node src/demo"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.25",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.2"
+  }
+}

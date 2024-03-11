@@ -14,4 +14,4 @@ then
 yarn dev
 ```
 
-You can change the dummy data (orders/transactions json) in the src `src/example-data.ts` file
+You can change the dummy data (orders/transactions json) in the src `src/data.ts` file
